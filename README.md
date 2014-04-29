@@ -11,3 +11,5 @@ ToDo:
 1.Add more settings for tweaking the search parameteres
 
 2.Display a progress bar when the image is loading
+
+3.Save image to photo library
